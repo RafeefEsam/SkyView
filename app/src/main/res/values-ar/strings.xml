@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">سكاي فيو</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">مرحبًا بالقطعة الفارغة</string>
+    <string name="Humidity">الرطوبة</string>
+    <string name="visibility">الرؤية</string>
+    <string name="Cloud">الغيوم</string>
+    <string name="Pressure">الضغط الجوي</string>
+    <string name="wind_speed">سرعة الرياح</string>
+    <string name="wind_deg">زاوية الرياح</string>
+    <string name="Hourly">بشكل ساعي</string>
+    <string name="DailyForecast">توقعات يومية</string>
+    <string name="offline_mode">أنت غير متصل بالإنترنت</string>
+    <string name="Details">التفاصيل</string>
+    <string name="SunSet">غروب الشمس</string>
+    <string name="SunRise">شروق الشمس</string>
+    <string name="feel_likes"> الإحساس بدرجة الحرارة </string>
+    <string name="title_activity_maps">نشاط الخرائط</string>
+    <string name="view_current_weather">عرض الطقس</string>
+    <string name="add_to_fav">إضافة إلى المفضلة</string>
+    <string name="fav_fragment">المواقع المفضلة</string>
+    <string name="permission_access_msg">يرجى السماح بإذن الإندماج</string>
+    <string name="permission_req_txt">إذن مطلوب</string>
+    <string name="ok_perm_txt">حسنًا</string>
+    <string name="cancel_perm_txt">إلغاء</string>
+    <string name="alarm_noti">تنبيه الطقس</string>
+    <string name="schedule_notification">جدولة التنبيهات</string>
+    <string name="schedule_alarm">جدولة المنبه</string>
+    <string name="settings">الإعدادات</string>
+    <string name="location">الموقع</string>
+    <string name="gps">الموقع العالمي</string>
+    <string name="map">الخريطة</string>
+    <string name="Temp">درجة الحرارة</string>
+    <string name="Celsius">درجة مئوية</string>
+    <string name="Kelvin">درجة كيلفن</string>
+    <string name="Fahrenheit">درجة فهرنهايت</string>
+    <string name="wind_speed1">سرعة الرياح</string>
+    <string name="meter_sec">متر/ثانية</string>
+    <string name="miles_hour">ميل/ساعة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="language">اللغة</string>
+    <string name="fav">التفضيلات</string>
+
+    convert to eyptian arabic langauge
+
+
+</resources>

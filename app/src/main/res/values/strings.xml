@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SkyView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="Cloud">Cloud</string>
+    <string name="Pressure">Pressure</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_deg">Wind degree</string>
+    <string name="Hourly">Hourly</string>
+    <string name="DailyForecast">Daily Forecast</string>
+    <string name="offline_mode">You are offline</string>
+    <string name="Details">Details</string>
+    <string name="SunSet">Sun Set</string>
+    <string name="SunRise">Sun Rise</string>
+    <string name="feel_likes">  Feels Like </string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="view_current_weather">View Weather</string>
+    <string name="add_to_fav">Add To Fav</string>
+    <string name="fav_fragment">Favourite Location</string>
+    <string name="permission_access_msg">Please Allow Overlay Permission</string>
+    <string name="permission_req_txt">Permission Requires</string>
+    <string name="ok_perm_txt">Ok</string>
+    <string name="cancel_perm_txt">Cancel</string>
+    <string name="alarm_noti">Weather Alarm</string>
+    <string name="schedule_notification">Schedule Notification</string>
+    <string name="schedule_alarm">Schedule Alarm</string>
+    <string name="settings">Settings</string>
+    <string name="location">Location</string>
+    <string name="gps">Gps</string>
+    <string name="map">Map</string>
+    <string name="Temp">Temperature</string>
+    <string name="Celsius">Celsius</string>
+    <string name="Kelvin">Kelvin</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="wind_speed1">Wind Speed</string>
+    <string name="meter_sec">Meter/Sec</string>
+    <string name="miles_hour">Miles/Hour</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="language">Language</string>
+    <string name="fav">Favourite</string>
+
+
+</resources>
